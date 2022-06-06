@@ -1,0 +1,2 @@
+export const STATUS_ERROR = '[ERROR] STATUS_ERROR';
+export const SET_STATUS_ERROR = '[ERROR] SET_STATUS_ERROR';
